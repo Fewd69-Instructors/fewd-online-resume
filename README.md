@@ -1,2 +1,1 @@
-# FEWD69 Homework Assignment #2
-## fewd-online-resume
+Homework for the second week of FEWD.
