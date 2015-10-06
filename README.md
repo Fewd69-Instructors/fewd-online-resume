@@ -1,2 +1,3 @@
-# FEWD69 Homework Assignment #2
-## fewd-online-resume
+#Online Resume
+
+Online Resume for FEWD 69. 
