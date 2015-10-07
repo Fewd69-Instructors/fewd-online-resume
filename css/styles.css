@@ -1,0 +1,38 @@
+body {
+  margin-bottom: 75px;
+	margin-right: 200px;
+	margin-left: 69px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h5 {
+	font-family: helvetiva;
+	letter-spacing: 3px
+}
+
+span {
+	font-family: monospace;
+}
+
+nav {
+	text-align: center;
+}
+
+img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+i {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+
+a {
+	font-weight: bold;
+	text-align: center;
+}
