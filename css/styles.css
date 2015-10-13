@@ -4,6 +4,45 @@ body {
 	margin-left: 69px;
 }
 
+#aboutme-body { 
+	max-width: 950px;
+  margin: 10% auto;
+	font-size: 18px;
+	border-top: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+	padding: 50px;
+}
+
+#aboutme-body > div:nth-child(4){
+	width: 80%;
+  float: left;
+}
+
+#aboutme-body > div:nth-child(5) {
+	float: right;
+}
+
+#abouteme-img {
+	height: 150px;
+	float: right;
+	border: 1px solid;
+}
+
+a {
+	font-weight: bold;
+	text-align: center;
+	color: black;
+}
+
+nav {
+	text-align: center;
+}
+
+#aboutme-title {
+	text-align: center;
+	text-transform: uppercase;
+}
+
 h1 {
 	text-align: center;
 }
@@ -17,10 +56,6 @@ span {
 	font-family: monospace;
 }
 
-nav {
-	text-align: center;
-}
-
 img {
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -31,8 +66,3 @@ i {
 	font-weight: bold;
 }
 
-
-a {
-	font-weight: bold;
-	text-align: center;
-}
